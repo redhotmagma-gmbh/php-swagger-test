@@ -168,7 +168,7 @@ $bodyRequestDef->match($requestBody);
 # Install
 
 ```
-composer require "byjg/swagger-test=1.2.*"
+composer require "redhotmagma/swagger-test=1.2.*"
 ```
 
 # Questions?
